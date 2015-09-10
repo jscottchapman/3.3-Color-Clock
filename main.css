@@ -1,11 +1,15 @@
 
 body {
-  background-image: repeating-radial-gradient(circle, yellow,#f06d06);
+  background-image: repeating-radial-gradient(circle, );
 }
 
 .display {
-position: relative;
+top: 500px;
 font-size:  6.25rem;
 text-align: center;
 color: white;
+}
+
+hr {
+  max-width: 400px;
 }
