@@ -21,7 +21,7 @@
     var percentage = (s / 60) * 100;
     console.log(percentage);
     var percentBar = document.querySelector('hr');
-    percentBar.style.width= 'percentage';
+    percentBar.style.width = percentage + "%";
 
 
     }
