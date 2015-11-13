@@ -22,6 +22,7 @@
     console.log(percentage);
     var percentBar = document.querySelector('hr');
     percentBar.style.width = percentage + "%";
+    
 
 
     }
